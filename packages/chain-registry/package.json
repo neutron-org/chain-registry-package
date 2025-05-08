@@ -67,7 +67,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "@babel/runtime": "^7.21.0",
+    "@babel/runtime": "^7.26.10",
     "@chain-registry/types": "^0.16.0"
   }
 }
